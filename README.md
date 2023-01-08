@@ -4,7 +4,7 @@
 2. Save it as "AnyNameYouWant.bat" (.bat is required to work)
 3. Just run it and should work
 
-Need help? There you have: [Click Here](https://www.youtube.com/watch?v=XRpQd9xJ84s).
+Need help? [Click Here](https://www.youtube.com/watch?v=XRpQd9xJ84s).
 
 ```
 @echo off
